@@ -1,6 +1,7 @@
 # Ejemplo de projecto Adivina el numero
 
 ### El siguiente codigo es un minijuego que consiste en adivinar un número aleatorio con longitud X.
+### Puedes encontrar el enlace al repositorio que contiene el código fuente [aqui](https://github.com/Fernando1472/Projecto-Adivina-El-Numero)
 
 ``` import kotlin.system.exitProcess
 import java.io.File
