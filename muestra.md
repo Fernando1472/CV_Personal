@@ -1,5 +1,7 @@
 #Ejemplo de projecto Adivina el numero
 
+###El siguiente codigo es un minijuego que consiste en adivinar un número aleatorio con longitud X.
+
 ``` import kotlin.system.exitProcess
 import java.io.File
 const val colorVerde     = "\u001B[32m"
