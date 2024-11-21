@@ -2,7 +2,7 @@
 
 #### Nombre: Fernando Lázaro Masen Ferreiro
 #### Edad: 21 años
-
+![Yo](../adorable-perro-basenji-marron-blanco-sonriendo-dando-maximo-cinco-aislado-blanco_346278-1657.avif)
 Soy un apacionado de la informática. Me gusta desarrollar aplicaciones en kotlin y utilizar distintas tecnologías para el desarrollo web.
 
 ---
