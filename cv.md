@@ -12,8 +12,8 @@ Soy un apacionado de la informática. Me gusta desarrollar aplicaciones en kotli
 
 # Habilidades
 
-#### Dispongo de las siguientes habilidades:
-1. Trabajo en equipo
+#### Dispongo de las siguientes habilidades y lenguajes de programación:
+1. Habilidades con enfoques en el trabajo en equipo y cooperación
 2. Conocimientos en **lenguajes de programación**:
     1. *Kotlin*
     2. _Java_
